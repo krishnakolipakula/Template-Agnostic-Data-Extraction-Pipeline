@@ -24,8 +24,9 @@ METHODOLOGY
 </div>
 <div align="center">
   
-  ![image](https://github.com/user-attachments/assets/e9e60205-c1f1-4bb8-9a6a-3aa4c70d7bc9)
-</div>
+</div>![1d](https://github.com/user-attachments/assets/0dd6b5e2-a779-4e64-bfb7-158a059cde85)
+
+
 <div align="center">
 Technical Details of Our Approach 
 </div>
@@ -45,8 +46,8 @@ ARCHITECTURAL DIAGRAM
 </div>
 
 <div align="center">
-  
-![image](https://github.com/user-attachments/assets/117ac717-40f0-4e9a-b08b-48f0dcb060b4)
+![2d](https://github.com/user-attachments/assets/9b8967c7-15c9-48c0-918b-59b9dadf245c)
+
 </div>
 
 
