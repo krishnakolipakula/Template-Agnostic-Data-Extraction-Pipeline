@@ -23,10 +23,8 @@ c. Interoperability - An automated system facilitates seamless integration with 
 METHODOLOGY
 </div>
 <div align="center">
-  
+  <img width="614" alt="s1" src="https://github.com/user-attachments/assets/6283d8ad-700d-4c5c-b61b-0cd39eb3eeac">
 </div>
-
-<img width="614" alt="s1" src="https://github.com/user-attachments/assets/6283d8ad-700d-4c5c-b61b-0cd39eb3eeac">
 
 <div align="center">
 Technical Details of Our Approach 
