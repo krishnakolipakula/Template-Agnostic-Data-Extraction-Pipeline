@@ -1,5 +1,5 @@
 <div align="center">
-AUTOMATED-DATA-EXTRACTION-FROM-CERTIFICATES
+Template-Agnostic-Data-Extraction-Pipeline
 </div>
 
 Our initiative leverages optical character recognition (OCR) to automate the extraction of key data from educational certificates. This streamlines administrative processes, reduces errors, and minimizes manual effort, ultimately enhancing efficiency for educational institutions in the digital age.
